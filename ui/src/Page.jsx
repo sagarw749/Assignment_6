@@ -44,7 +44,7 @@ function Footer() {
       <p className="text-center">
         Full source code available at this
         {' '}
-        <a href="https://github.com/sagarw749">
+        <a href="https://github.com/sagarw74">
           GitHub repository
         </a>
       </p>
